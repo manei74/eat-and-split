@@ -9,10 +9,8 @@ eat-n-split is a simple React application that allows you and your friends to sp
 
 ## Live Demo
 
-Check out the live version on GitHub Pages (if deployed):
+Check out the live version on GitHub Pages:
 [https://manei74.github.io/eat-n-split/](https://manei74.github.io/eat-n-split/))
-
-> **Note:** If you're looking for the eat-n-split demo, make sure to update the homepage URL accordingly if deployed separately.
 
 ## Features
 
